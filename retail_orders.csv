@@ -1,0 +1,12 @@
+order_id,customer_id,product,quantity,amount
+1001,501,Laptop,2,120000
+1002,502,Mobile,1,25000
+1003,503,Tablet,3,45000
+1004,504,Monitor,2,30000
+1005,505,Keyboard,4,8000
+1006,506,Mouse,2,3000
+1007,507,Laptop,1,60000
+1008,508,Mobile,2,50000
+1009,501,Mobile,0,120000
+1010,501,Tablet,2,120000
+1011,501,,2,120000
